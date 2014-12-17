@@ -1,5 +1,5 @@
-html, body{ 
-  height: 100%; 
+html, body{
+  height: 100%;
   margin: 0;
   padding: 0
 }
@@ -12,7 +12,7 @@ body {
   color: #222;
 }
 
-.container-fluid{
+.container-fluid {
   height: 100%;
   display: table;
   width: 100%;
@@ -21,6 +21,6 @@ body {
 
 .row {
   height: 100%;
-  display: table-cell; 
+  display: table-cell;
   vertical-align: middle;
 }
